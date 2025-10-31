@@ -1,24 +1,42 @@
 ## Hi there 👋
 
-__About Me__
+**About Me**
 
-Hi! I'm Bianca, a data enthusiast, Python programmer and a radiologist, with a passion for solving health-related problems through data analysis and predictive modeling. I'm currently working on projects focused on ECG signal analysis and machine learning. 👾 👾 👾
+Hi! I'm Bianca, a first-year student of the Bachelor's Degree in Computer Science at the National University of Cuyo (UNCuyo). I'm a data enthusiast and Python and Java programmer, interested in software development and data analysis. 👾 👾 👾
 
-__Featured Projects__
+**Featured Projects**
 
-+ ECG Signal Reader (In progress): I’m currently developing a project to interpret and analyze ECG signals. 🌱
+* ECG Signal Reader (In progress): I’m currently developing a project to interpret and analyze ECG signals. 🌱
 
-+ Health Risk Factors Analysis: A comprehensive analysis of factors contributing to chronic diseases using predictive models. A group proyect from the program Ingenias-YPF. 🌻
+* Health Risk Factors Analysis: A comprehensive analysis of factors contributing to chronic diseases using predictive models. A group project from the Ingenias-YPF program. 🌻
 
-__Technical Skills__
+* Java Board Game: One of my pinned repositories is a Java-based game project that uses a local SQLite database for player and game data management. It was made along with other partner for an academic activity. 🎲
 
-Languages: Python, SQL
+**Technical Skills**
 
-Tools: Pandas, Numpy, Matplotlib,Seaborn, Scikit-learn
+Languages: Python, Java, SQL
 
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Tools: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, SQLite
 
+<p align="left"> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+  </a>
+</p>
 
-__Get in Touch__ 📩
-Feel free to connect with me on  linkedin.com/in/biancacristin/ or send me an email at biancamcristin@gmail.com 
+**Get in Touch** 📩
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/biancacristin/) or send me an email at **[biancamcristin@gmail.com](mailto:biancamcristin@gmail.com)**
+
 
